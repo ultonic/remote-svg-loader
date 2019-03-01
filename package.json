@@ -1,0 +1,28 @@
+{
+  "name": "remote-svg-loader",
+  "version": "0.0.1",
+  "author": "Anton Endiuskin @ultonic",
+  "description": "Downloads svg object form external server and inserts it in DOM",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ultonic/remote-svg-loader.git"
+  },
+  "keywords": [
+    "svg",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/ultonic/remote-svg-loader/issues"
+  },
+  "homepage": "https://github.com/ultonic/remote-svg-loader"
+}
